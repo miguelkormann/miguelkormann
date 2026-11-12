@@ -1,5 +1,8 @@
+# Miguel Kormann Peters
 
+## About me
 
+Systems Development Student | PHP | JavaScript | HTML | CSS | C++ | Seeking an internship in Development
 ## Main Languages
 
 <div >
