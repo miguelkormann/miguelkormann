@@ -16,4 +16,6 @@
 
 ## Social Medias
 
+![icon-marquee](https://icon-marquee.giann.dev/v1/icons?i=gmail,whatsapp,linkedin)
+
 
