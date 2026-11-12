@@ -2,7 +2,12 @@
 
 ## About me
 
-Systems Development Student | PHP | JavaScript | HTML | CSS | C++ | Seeking an internship in Development
+I am a Systems Development student with a strong interest in information technology and software development.
+
+I am currently focused on improving my technical knowledge, developing problem-solving skills, and gaining practical experience through academic studies and personal projects.
+
+I have an advanced level of English, which allows me to access technical documentation, international learning resources, and a wide range of materials related to technology and software engineering.
+
 ## Main Languages
 
 <div >
