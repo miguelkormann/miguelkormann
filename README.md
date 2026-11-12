@@ -14,5 +14,6 @@
 </div>
 
 ## Social Medias
-
+<div align="center">
 ![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=instagram,gmail,whatsapp,linkedin)
+</div>
